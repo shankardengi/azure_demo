@@ -57,7 +57,13 @@
 							"name": "If Condition1",
 							"type": "IfCondition",
 							"dependsOn": [],
-							"userProperties": []
+							"userProperties": [],
+							"typeProperties": {
+								"expression": {
+									"value": "@equals(item().type,'file')",
+									"type": "Expression"
+								}
+							}
 						}
 					]
 				}
