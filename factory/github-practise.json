@@ -1,0 +1,9 @@
+{
+	"name": "github-practise",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "caad7894-a49a-4f1c-944e-87b4c63133e7",
+		"tenantId": "3d6510ff-6fed-4f36-b819-aa761d11dbad"
+	}
+}
